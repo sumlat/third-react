@@ -4,7 +4,10 @@ import MessagesApp from "./MessagesApp"
 import ContactCardApp from "./ContactCardApp"
 import EventListenerApp from "./eventListenerApp"
 import StateApp from "./StateApp"
+import PassingDataApp from "./PassingDataApp"
 import FormApp from "./FormApp"
+import CounterApp from "./CounterApp"
+import PadApp from "./PadProject/App"
 const root = createRoot(document.getElementById("root"))
 root.render(
     <ChefClaudeApp/>
